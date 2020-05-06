@@ -1,12 +1,2 @@
--------------readmefile--------
-
-
-1.Run the code
-2. 3 graphs are goin to plot then close them (univariate )
-3. 2 graphs will plot (bi-variate)
-4.close them
-5. the correlation graph will plot the again close it
-6. then wait for a while all data will display from transforamation output
-7. then DBSCAN algorithm will run and display data & plot clusters
-8. then ffinity propagation clustering algorithm will run and  display data & plot data
-9. then KMeans will run and  display data & plot clusters
+-----------Glass Identification Data Set---------------
+The dataset consists of different instances of glass segments, each object/instance containing information on the chemical composition of the segment. Our goals is to group those instances into groups/clusters of similar instances. There is also a class attribute ( Type              of glass   ) which  must not be used for clustering but can be used for the evaluation of the clustering results. 
